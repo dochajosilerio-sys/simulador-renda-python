@@ -1,0 +1,15 @@
+nano README.md# 📊 Simulador de Renda e Viabilidade v2.0
+
+Ferramenta desenvolvida em Python para planejamento financeiro e análise de viabilidade social/estudantil.
+
+## ✨ Funcionalidades Técnicas
+* **Regra de Proteção:** Cálculo de transição do Bolsa Família (Lei de 24 meses).
+* **Tarifas Sociais:** Estimativa de descontos em energia e água (Lei 14.203/2021).
+* **Análise de Investimento:** Cálculo de ROI para construções destinadas a aluguel.
+* **Contexto Institucional:** Parâmetros compatíveis com auxílios do IFMG, SENAI e CEFET.
+
+## 💻 Tecnologias
+* Python 3.12
+* Git & GitHub
+* Ambiente de desenvolvimento: Termux (Mobile)
+
